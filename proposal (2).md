@@ -6,7 +6,7 @@ The title will be "Catch Dumpling".
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A small game to catch dumplings falling from the sky and avoid firecrackers.
+A simple game to catch dumplings falling from the sky and avoid firecrackers.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -34,5 +34,4 @@ The better outcome for my final project is if the player catches three firecrack
 The best outcome for my final project is I can make exactly the same game as I described.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
-
-My first step is to download pygame first. Then through online teaching, learn how to write pygame code, and learn how to insert pictures to make the game more interesting. I hope to make a complete and logical game where players can freely choose to continue the game or quit.
+My first step is to download pygame. The second step is to search for the resources needed to make pygame, such as background music, background pictures, and icons of characters. After collecting the resources, I will start to study the programming framework of pygame. What I need to learn is to create a game window, create a game loop event, define the window size, insert a picture into the game, how to use the keyboard to control image movement, how to use the mouse to control the page and use the font.
